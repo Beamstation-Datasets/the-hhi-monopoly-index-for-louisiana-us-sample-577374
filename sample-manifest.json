@@ -1,12 +1,12 @@
 {
-  "export_job_id": "af8cb582-9ffc-48ba-a24c-e249dd56d0f4",
+  "export_job_id": "30bf231c-eae1-45a6-b8c9-6129e3b513bc",
   "id_short": 577374,
-  "published_at": "2026-04-15T07:10:58Z",
+  "published_at": "2026-04-18T19:24:59Z",
   "repo_name": "the-hhi-monopoly-index-for-louisiana-us-sample-577374",
   "sample_asset_name": "beamstation_577374_restaurants-us-la_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/577374/beamstation_577374_restaurants-us-la_SAMPLE_DIST.csv",
   "sample_records": 37,
   "sample_sha256": "a4995c0e65296063693bf389f9d0fab17118b413f04bb37211a10f3479e4f173",
   "sample_size_bytes": 154616,
-  "total_records": 406
+  "total_records": 370
 }
