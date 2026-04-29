@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Louisiana, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 34 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `577374` |
 | Location | Louisiana |
 | Category | Restaurants |
-| Full dataset size | 293 records |
-| Free sample size | 29 records (9.9%) |
-| Last export | 2026-04-22T03:36:18.690826+00:00 |
+| Full dataset size | 347 records |
+| Free sample size | 34 records (9.8%) |
+| Last export | 2026-04-29T06:17:15.697885+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-louisiana-us-sample-577374/releases/download/sample-latest/beamstation_577374_restaurants-us-la_SAMPLE_DIST.csv) |
 
 ## What is in this sample
